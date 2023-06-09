@@ -42,9 +42,9 @@
 .theme-light {
   --dplus-backdrop: url(https://i.imgur.com/zqBxR0H.jpg);
   
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 0;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 50%;
   
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'arial';
+  --dplus-font-ui: 'blackadder itc';
   --dplus-font-body: 'georgia';
-  --dplus-font-header: 'blackadder itc';
+  --dplus-font-header: 'georgia';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
