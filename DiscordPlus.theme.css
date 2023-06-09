@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
+  --dplus-font-ui: 'arial';
   --dplus-font-body: 'georgia';
-  --dplus-font-header: 'georgia';
+  --dplus-font-header: 'blackadder itc';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
